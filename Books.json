@@ -1,0 +1,83 @@
+[
+{
+    "Title": "Harry Potter and the Goblet of Fire",
+    "Author": "J. K. Rowling",
+    "Year": "2000",
+    "Review": "4.9/5",
+    "Genre": "Novel, Fantasy Fiction",
+    "Book": "https://www.waterstones.com/book/harry-potter-and-the-goblet-of-fire/j-k-rowling/9781408855683"
+  },
+{
+    "Title": "Fifty Shades of Grey",
+    "Author": "E. L. James",
+    "Year": "2015",
+    "Review": "4.3/5",
+    "Genre": "Romance novel, Fiction, Erotic romance novel",
+    "Book": "https://www.waterstones.com/book/grey/e-l-james/9781784753252id=Q6TeDQAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false"
+  },
+{
+    "Title": "Talking to My Daughter About the Economy: A Brief History of Capitalism",
+    "Author": "Yanis Varoufakis",
+    "Year": "2013",
+    "Review": "5/5",
+    "Genre": "Non-Fiction",
+    "Book": "https://www.waterstones.com/book/talking-to-my-daughter-about-the-economy/yanis-varoufakis/9781784705756"
+  },
+{
+    "Title": "Noughts & Crosses - Noughts and Crosses",
+    "Author": "Malorie Blackman",
+    "Year": "2017",
+    "Review": "4/5",
+    "Genre": "Action fiction, Adventure fiction, Romance novel",
+    "Book": "https://www.waterstones.com/book/noughts-and-crosses/malorie-blackman/9780141378640"
+  },
+{
+    "Title": "Of Mice and Men",
+    "Author": "John Steinbeck",
+    "Year": "1937",
+    "Review": "3.9/5",
+    "Genre": " Novella, Fiction, Tragedy",
+    "Book": "https://www.waterstones.com/book/of-mice-and-men/john-steinbeck/susan-shillinglaw/9780141023571"
+  },
+{
+    "Title": "The Hunger Games",
+    "Author": "Suzanne Collins ",
+    "Year": "2008",
+    "Review": "5/5",
+    "Genre": "Novel, Fantasy Fiction",
+    "Book": "https://www.waterstones.com/book/the-hunger-games/suzanne-collins/9781407132082"
+  },
+{
+    "Title": "The Maze Runner ",
+    "Author": "James Dashner",
+    "Year": "2009",
+    "Review": "4/5",
+    "Genre": "Science Fiction, Young adult fiction, Children's literature, Doomsday film, Adventure fiction, Dystopian Fiction",
+    "Book": "https://www.waterstones.com/book/the-maze-runner/james-dashner/9781909489400"
+  },
+{
+    "Title": "Ten Little Bookworms",
+    "Author": "Mike Brownlow",
+    "Year": "2019",
+    "Review": "4/5",
+    "Genre": "Children's literature",
+    "Book": "https://www.waterstones.com/book/ten-little-bookworms/mike-brownlow/simon-rickerty/9781408357989"
+  },
+{
+    "Title": "Charlie and Lola: A Dog With Nice Ears",
+    "Author": "Lauren Child",
+    "Year": "2018",
+    "Review": "4/5",
+    "Genre": "Children's literature",
+    "Book": "https://www.waterstones.com/book/charlie-and-lola-a-dog-with-nice-ears/lauren-child/9781408346143"
+  },
+{
+    "Title": "A Pinch of Magic",
+    "Author": "Michelle Harrison",
+    "Year": "2019",
+    "Review": "4/5",
+    "Genre": "Children's literature",
+    "Book": "https://www.waterstones.com/book/a-pinch-of-magic/michelle-harrison/9781471124297"
+  }
+
+]
